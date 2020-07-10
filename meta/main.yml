@@ -37,4 +37,4 @@ galaxy_info:
     - cp
 
 dependencies:
-  - role: andrewrothstein.zookeeper
+  - role: ansible-zookeeper
