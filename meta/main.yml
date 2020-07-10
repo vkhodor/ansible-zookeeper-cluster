@@ -38,4 +38,3 @@ galaxy_info:
 
 dependencies:
   - role: andrewrothstein.zookeeper
-    version: v3.0.3
